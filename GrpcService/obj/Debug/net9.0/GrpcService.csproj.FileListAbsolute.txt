@@ -1,0 +1,86 @@
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\appsettings.Development.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\appsettings.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.staticwebassets.endpoints.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.exe
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.deps.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.runtimeconfig.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.pdb
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Google.Protobuf.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Core.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Core.Api.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Net.Client.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Net.Common.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.csproj.AssemblyReference.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.AssemblyInfoInputs.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.AssemblyInfo.cs
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.csproj.CoreCompileInputs.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.MvcApplicationPartsAssemblyInfo.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\scopedcss\bundle\GrpcService.styles.css
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets.build.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets.development.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.build.GrpcService.props
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GrpcService.props
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GrpcService.props
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets.pack.json
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcServ.50A4AFF7.Up2Date
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\refint\GrpcService.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.pdb
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.genruntimeconfig.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\GrpcService\GrpcService\obj\Debug\net9.0\ref\GrpcService.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\appsettings.Development.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\appsettings.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.staticwebassets.endpoints.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.exe
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.deps.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.runtimeconfig.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\GrpcService.pdb
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Google.Protobuf.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Core.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Core.Api.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Net.Client.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\Grpc.Net.Common.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\bin\Debug\net9.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.csproj.AssemblyReference.cache
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.AssemblyInfoInputs.cache
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.AssemblyInfo.cs
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.csproj.CoreCompileInputs.cache
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.MvcApplicationPartsAssemblyInfo.cache
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\scopedcss\bundle\GrpcService.styles.css
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets.build.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets.development.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.build.GrpcService.props
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GrpcService.props
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GrpcService.props
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\staticwebassets.pack.json
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcServ.50A4AFF7.Up2Date
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\refint\GrpcService.dll
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.pdb
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\GrpcService.genruntimeconfig.cache
+F:\SAMS\4.1\SW\project 3\GrpcService\GrpcService\obj\Debug\net9.0\ref\GrpcService.dll

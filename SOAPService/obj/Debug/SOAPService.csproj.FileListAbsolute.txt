@@ -1,0 +1,14 @@
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\bin\SOAPService.dll.config
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\bin\SOAPService.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\bin\SOAPService.pdb
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\obj\Debug\SOAPService.dll
+D:\study\3rd year- sem1\Software configuration mangement\vs\project 3\SOAPService\obj\Debug\SOAPService.pdb
+F:\SAMS\4.1\SW\project 3\SOAPService\bin\SOAPService.dll.config
+F:\SAMS\4.1\SW\project 3\SOAPService\bin\SOAPService.dll
+F:\SAMS\4.1\SW\project 3\SOAPService\bin\SOAPService.pdb
+F:\SAMS\4.1\SW\project 3\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+F:\SAMS\4.1\SW\project 3\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+F:\SAMS\4.1\SW\project 3\SOAPService\obj\Debug\SOAPService.dll
+F:\SAMS\4.1\SW\project 3\SOAPService\obj\Debug\SOAPService.pdb
