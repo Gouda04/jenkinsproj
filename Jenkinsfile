@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                bat 'dotnet build ./RESTApi/RESTApi.sln'
+                bat 'dotnet build ./SWjenk/SWjenk.sln'
                 bat 'dotnet build ./GrpcService/GrpcService.sln'
             }
         }
